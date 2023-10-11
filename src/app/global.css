@@ -1,0 +1,14 @@
+button {
+  border: none;
+  padding: 20px;
+  cursor: pointer;
+  margin: 20px;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:visited {
+  color: black;
+}
