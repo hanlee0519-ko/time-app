@@ -41,6 +41,6 @@
 (4) 검색
 - 사용자는 자신이 필요한 의약품을 이름으로 검색할 수 있습니다. 
 
-![스크린샷 2023-11-01 오후 5 45 34](https://github.com/hanlee0519-ko/time-app/assets/77566836/24f02520-21e0-408f-a10f-844374abb398)
+![스크린샷 2023-11-01 오후 6 09 41](https://github.com/hanlee0519-ko/time-app/assets/77566836/e18831bb-bb14-4b3c-ba8e-1d3c2a2e9dbb)
 
 <br/>
