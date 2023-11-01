@@ -16,6 +16,9 @@
 
 ## 청사진
 ![스크린샷 2023-11-01 오후 5 43 59](https://github.com/hanlee0519-ko/time-app/assets/77566836/e249319b-8969-474f-a083-4eacb87b55d6)
+<br/>
 ![스크린샷 2023-11-01 오후 5 44 34](https://github.com/hanlee0519-ko/time-app/assets/77566836/a62c569d-d494-4bd5-9dd2-286934930e30)
+<br/>
 ![스크린샷 2023-11-01 오후 5 45 17](https://github.com/hanlee0519-ko/time-app/assets/77566836/7e0ad2a2-e231-4efd-82e6-958694af506b)
+<br/>
 ![스크린샷 2023-11-01 오후 5 45 34](https://github.com/hanlee0519-ko/time-app/assets/77566836/24f02520-21e0-408f-a10f-844374abb398)
